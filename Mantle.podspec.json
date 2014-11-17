@@ -8,8 +8,8 @@
     "GitHub": "support@github.com"
   },
   "source": {
-    "git": "https://github.com/github/Mantle.git",
-    "tag": "1.5.1"
+    "git": "https://github.com/paulomendes/Mantle",
+    "commit": "5b50748c5d2e17027f170ae6ed9060ec24745089"
   },
   "source_files": "Mantle",
   "frameworks": "Foundation",
